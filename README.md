@@ -47,12 +47,10 @@ github-profile-finder/
    ```
 2. **Navigate into the directory:**
    ```bash
-   cd devfinder
-   ```
+   cd devfinder ```
 3. Open the app:
 Double-click index.html to open it in any web browser, or use VS Code's Live Server extension.
 
-```
 
 ```
 ## 🎯 How to Use the App
