@@ -44,9 +44,11 @@ github-profile-finder/
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/sidequest-code/devfinder.git](https://github.com/sidequest-code/devfinder.git)
+   ```
 2. **Navigate into the directory:**
    ```bash
    cd devfinder
+   ```
 3. Open the app:
 Double-click index.html to open it in any web browser, or use VS Code's Live Server extension.
 
