@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GitHub Profile Finder</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <h1><i class="fa-brands fa-github"></i> DevFinder</h1>
+      <button id="theme-toggle" class="btn-theme"><i class="fa-solid fa-moon"></i></button>
+    </header>
+
+    <div class="search-box">
+      <i class="fa-solid fa-magnifying-glass search-icon"></i>
+      <input type="text" id="username" placeholder="Search GitHub username..." />
+      <button id="search-btn">Search</button>
+    </div>
+
+    <!-- Container where JS will inject profile card -->
+    <div id="profile-container"></div>
+  </div>
+
+  <!-- Make sure this file name matches your JS file -->
+  <script src="script.js"></script>
+</body>
+</html>
