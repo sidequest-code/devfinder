@@ -52,7 +52,7 @@ github-profile-finder/
 Double-click index.html to open it in any web browser, or use VS Code's Live Server extension.
 
 
-```
+
 ## 🎯 How to Use the App
 Type any GitHub username (e.g., octocat, torvalds, or sidequest-code) into the search bar.
 
