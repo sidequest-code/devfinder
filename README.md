@@ -42,7 +42,7 @@ github-profile-finder/
 
 1. **Clone the repository:**
    ```
-   git clone [https://github.com/sidequest-code/devfinder.git](https://github.com/sidequest-code/devfinder.git)
+   git clone https://github.com/sidequest-code/devfinder.git
 
 2. **Navigate into the directory:**
    ```
