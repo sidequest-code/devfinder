@@ -48,13 +48,13 @@ github-profile-finder/
    ```
    cd devfinder 
 3. Open the app:
-Double-click index.html to open it in any web browser, or use VS Code's Live Server extension.
+ * Double-click index.html to open it in any web browser, or use VS Code's Live Server extension.
 
 
 
 ## 🎯 How to Use the App
-*Type any GitHub username (e.g., octocat, torvalds, or sidequest-code) into the search bar.
+* Type any GitHub username (e.g., octocat, torvalds, or sidequest-code) into the search bar.
 
-*Click Search or press Enter.
+* Click Search or press Enter.
 
-*View user metrics, follower counts, and recent repositories!
+* View user metrics, follower counts, and recent repositories!
