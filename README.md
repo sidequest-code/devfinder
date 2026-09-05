@@ -28,7 +28,7 @@ A modern, responsive web application built with **Vanilla JavaScript**, **CSS3**
 
 ## 📂 Project Structure
 
-```text
+```
 github-profile-finder/
 │
 ├── index.html       # Application HTML markup
@@ -36,17 +36,16 @@ github-profile-finder/
 ├── script.js       # GitHub API integration & DOM manipulation logic
 └── README.md        # Project documentation
 
----
-
 ```
+---
 ## 🚀 How to Run the Project
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/sidequest-code/devfinder.git](https://github.com/sidequest-code/devfinder.git)
    ```
+   git clone [https://github.com/sidequest-code/devfinder.git](https://github.com/sidequest-code/devfinder.git)
+
 2. **Navigate into the directory:**
-   ```bash
+   ```
    cd devfinder 
 3. Open the app:
 Double-click index.html to open it in any web browser, or use VS Code's Live Server extension.
@@ -54,8 +53,8 @@ Double-click index.html to open it in any web browser, or use VS Code's Live Ser
 
 
 ## 🎯 How to Use the App
-Type any GitHub username (e.g., octocat, torvalds, or sidequest-code) into the search bar.
+*Type any GitHub username (e.g., octocat, torvalds, or sidequest-code) into the search bar.
 
-Click Search or press Enter.
+*Click Search or press Enter.
 
-View user metrics, follower counts, and recent repositories!
+*View user metrics, follower counts, and recent repositories!
